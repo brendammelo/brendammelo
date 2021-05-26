@@ -11,7 +11,7 @@ I'm a mobile/front-end developer, working everyday to be a better developer and 
 <br >
 
 
-**:briefcase: Current position:** Mobile Developer at [Salvus](https://salvus.me/)
+**:briefcase: Current position:** Mobile/Front-end Developer at [Salvus](https://salvus.me/)
 
 #### Skills and tools :computer:
 
