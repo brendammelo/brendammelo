@@ -1,6 +1,6 @@
 #### Hello, I'm Brenda 🪐
 
-I'm a mobile/front-end developer, working everyday to be a better developer and person.
+I'm a mobile/front-end developer, working everyday to improve myself.
 
 <a href="https://github.com/brendammelo">
   <img src="https://komarev.com/ghpvc/?username=brendammelo&style=flat-square" />
